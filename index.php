@@ -1,6 +1,3 @@
-<?php
-        include_once "Adatbazis.php";
-        ?>
 <!DOCTYPE html>
 <html lang="hu">
 <head>
@@ -11,7 +8,10 @@
 </head>
 <body>
     <?php
+        echo "<table>";
         
+
+        echo "</table>";
     
     
     ?>
